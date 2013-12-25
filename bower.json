@@ -1,0 +1,22 @@
+{
+  "name": "node-webkit-angular-editor",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hugoruscitti/node-webkit-angular-editor",
+  "authors": [
+    "Hugo Ruscitti <hugoruscitti@gmail.com>"
+  ],
+  "description": "An editor",
+  "license": "GPLv3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-codemirror": "~0.0.7",
+    "bootstrap": "~3.0.3"
+  }
+}
