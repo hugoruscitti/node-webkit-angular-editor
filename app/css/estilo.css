@@ -2,3 +2,7 @@
   border: 1px solid gray;
   margin: 30px;
 }
+
+.CodeMirror {
+  font-family: "SourceCodeProRegular", source-code-pro, "Anonymous Pro", Consolas, Inconsolata, monospace;
+}
