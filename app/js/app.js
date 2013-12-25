@@ -5,7 +5,7 @@ app.controller('MainCtrl', function($scope){
   $scope.x = "function () {return null}";
   $scope.editorOptions = {
     lineNumbers: true,
-    theme: 'monokai',
+    theme: 'eclipse',
     mode: 'javascript',
   };
 });
