@@ -1,0 +1,22 @@
+{
+  "name": "node-webkit-angular-editor",
+  "version": "0.0.1",
+  "description": "node-webkit-angular-editor ==========================",
+  "main": "GruntFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugoruscitti/node-webkit-angular-editor.git"
+  },
+  "author": "Hugo Ruscitti",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/hugoruscitti/node-webkit-angular-editor/issues"
+  },
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "grunt-node-webkit-builder": "~0.1.14"
+  }
+}
